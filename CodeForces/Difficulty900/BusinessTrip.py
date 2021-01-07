@@ -3,8 +3,7 @@
 k = int(input())
 
 months = input().split()
-months.sort(key=int,reverse=True)
-
+months.sort(key=int, reverse=True)
 
 cm, count = 0, 0
 

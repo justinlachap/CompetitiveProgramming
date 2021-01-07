@@ -1,6 +1,6 @@
 # solution to https://codeforces.com/problemset/problem/118/A
 
-vowels = ['a','e','i','o','u','y']
+vowels = ['a', 'e', 'i', 'o', 'u', 'y']
 l = ['']
 
 for i in input().lower():

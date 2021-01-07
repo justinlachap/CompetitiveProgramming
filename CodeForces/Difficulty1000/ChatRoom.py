@@ -1,7 +1,7 @@
 # solution to https://codeforces.com/problemset/problem/58/A
 
 
-hello = ['h','e','l','l','o']
+hello = ['h', 'e', 'l', 'l', 'o']
 index = 0
 
 for i in input():

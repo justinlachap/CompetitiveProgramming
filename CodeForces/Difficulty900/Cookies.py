@@ -20,4 +20,3 @@ elif total % 2 == True:
             ways += 1
 
 print(ways)
-
