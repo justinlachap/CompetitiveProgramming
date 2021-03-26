@@ -34,5 +34,3 @@ for _ in range(t):
         elements.clear()
 
     print('Case #' + str(_ + 1) + ': ' + str(trace) + ' ' + str(rows) + ' ' + str(colums))
-
-# comment test
