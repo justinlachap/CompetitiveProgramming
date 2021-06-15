@@ -1,4 +1,4 @@
-#solution https://codeforces.com/problemset/problem/1529/A
+# solution https://codeforces.com/problemset/problem/1529/A
 
 t = int(input())
 
