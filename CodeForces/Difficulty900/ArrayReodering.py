@@ -1,3 +1,5 @@
+# solution https://codeforces.com/problemset/problem/1535/B
+
 import math
 
 t = int(input())
