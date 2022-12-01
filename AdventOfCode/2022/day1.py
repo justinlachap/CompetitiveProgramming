@@ -3,11 +3,8 @@ arr1 = [[paragraph.split("\n")] for paragraph in (
 arr2 = []
 
 for item in arr1:
-    for j in range(len(item[0])):
-        if (item[0][j]).isnumeric():
-            item[0][j] = int(item[0][j])
     try:
-        arr2.append(sum(item[0]))
+        arr2.append(sum([int(x) for x in item[0] if x.isnumeric()]))
     except:
         pass
 
